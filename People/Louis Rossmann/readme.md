@@ -1,1 +1,2 @@
 - [Why I deleted GrapheneOS](https://youtu.be/4To-F6W1NT0)
+  - [GrapheneOS: Documenting Numerous Attacks Against CalyxOS, Seth Simmons, Techlore, & More](https://youtu.be/Dx7CZ-2Bajg)
