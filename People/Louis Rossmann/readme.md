@@ -1,0 +1,1 @@
+- [Why I deleted GrapheneOS](https://youtu.be/4To-F6W1NT0)
